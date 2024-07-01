@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jazmín Caruso Rojo</h1>
 <h3 align="center">A passionate developer from Córdoba, Argentina</h3>
 
-- 📝 I’m currently working on **Canopi Logger**
+- 📝 I’m a student at **FAMAF - UNC**
 
 - 💬 Ask me about **html, css, javascript y reactjs**
 
